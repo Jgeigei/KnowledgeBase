@@ -17,9 +17,9 @@ If your app is not listed below, please check on its proxy configurations in the
 
 :::
 
-AdGuard allows you to route your device's traffic through a proxy server. To access proxy settings, open **Settings** and then proceed to **Filtering** → **Network** → **Proxy**.
+AdGuard позволяет направлять трафик устройства через прокси-сервер. Для доступа к настройкам прокси откройте **Настройки** и перейдите в раздел **Фильтрация** → **Сеть** → **Прокси**.
 
-## Proxy configuration examples
+## Примеры конфигурации прокси-сервера
 
 In this article we give examples of how to set up some of the most popular proxies to work with AdGuard.
 

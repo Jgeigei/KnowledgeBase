@@ -9,7 +9,7 @@ sidebar_position: 6
 
 :::
 
-## How to reach Low-level settings
+## Как получить доступ к Низкоуровневым настройкам
 
 :::caution
 
@@ -79,7 +79,7 @@ If this setting is enabled, AdGuard will send DNS requests directly when the out
 
 #### Пробовать HTTP/3 для upstream-серверов DNS-over-HTTPS
 
-If this setting is enabled, AdGuard will use HTTP/3 to speed up DNS query resolution for DoH upstreams. Otherwise, AdGuard will revert to its default behavior and use HTTP/2 to send all DNS requests for DNS-over-HTTPS.
+If this setting is enabled, AdGuard will use HTTP/3 to speed up DNS query resolution for DoH upstreams. В противном случае AdGuard вернётся к поведению по умолчанию и будет использовать HTTP/2 для отправки всех DNS-запросов для DNS-over-HTTPS.
 
 #### Отвечать на ошибку кодом SERVFAIL
 
@@ -97,9 +97,9 @@ If this setting is enabled, AdGuard will test DNS upstreams before adding or upd
 
 #### Записывать HAR
 
-If this setting is enabled, AdGuard will capture HAR files. It will create a directory named "har" inside the app cache directory and add there information about all filtered HTTP requests in HAR 1.2 format that can be analyzed with the Fiddler program.
+Если эта настройка включена, AdGuard будет перехватывать HAR-файлы. It will create a directory named "har" inside the app cache directory and add there information about all filtered HTTP requests in HAR 1.2 format that can be analyzed with the Fiddler program.
 
-Use it only for debugging purposes!
+Используйте его только для целей отладки!
 
 ### HTTPS-фильтрация
 

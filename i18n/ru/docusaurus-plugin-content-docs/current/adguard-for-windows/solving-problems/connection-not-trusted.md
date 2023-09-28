@@ -41,7 +41,7 @@ sidebar_position: 2
 
 1. Выберите вкладку *Центры сертификации*.
 
-1. Click *Import...*.
+1. Нажмите кнопку *Импортировать...*.
 
 ![Certificate settings — import](https://cdn.adtidy.org/content/kb/ad_blocker/windows/solving-problems/import2.jpeg)
 
